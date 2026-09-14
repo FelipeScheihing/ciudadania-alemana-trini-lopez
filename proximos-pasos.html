@@ -1,0 +1,161 @@
+<title>Ciudadanía Vermehren — próximos pasos</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Source+Sans+3:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#f5f1e6;
+    --paper:#fbf8f1;
+    --ink:#26241d;
+    --ink-soft:#5a5647;
+    --line:#d8cfb8;
+    --accent:#7a2331;
+    --accent-soft:#f0dcd8;
+    --held:#3d6b4f;
+    --held-bg:#e3ece2;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#1c1a16; --paper:#242019; --ink:#ece6d8; --ink-soft:#b7ae98;
+      --line:#4a4436; --accent:#e0918f; --accent-soft:#3a2426;
+      --held:#8fc79a; --held-bg:#26332a;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#1c1a16; --paper:#242019; --ink:#ece6d8; --ink-soft:#b7ae98;
+    --line:#4a4436; --accent:#e0918f; --accent-soft:#3a2426;
+    --held:#8fc79a; --held-bg:#26332a;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font-family:"Source Sans 3", system-ui, sans-serif;
+    padding:2.5rem 1.25rem 4rem;
+  }
+  .wrap{max-width:700px;margin:0 auto;}
+  h1{
+    font-family:"Fraunces", Georgia, serif; font-weight:700;
+    font-size:clamp(1.6rem, 4vw, 2.2rem); text-wrap:balance;
+    margin:0 0 .35rem; letter-spacing:-0.01em;
+  }
+  .subtitle{color:var(--ink-soft); font-size:1rem; max-width:58ch; margin:0 0 .5rem;}
+  .context{
+    font-size:.85rem; color:var(--ink-soft); margin-bottom:2rem;
+    padding-bottom:1.5rem; border-bottom:1px dashed var(--line);
+  }
+  .context a{color:var(--accent);}
+
+  .banner{
+    background:var(--accent-soft); color:var(--accent);
+    border-radius:10px; padding:.85rem 1.1rem; font-size:.88rem;
+    font-weight:600; margin-bottom:2rem; line-height:1.45;
+  }
+
+  ol.actions{list-style:none; margin:0; padding:0; counter-reset:step;}
+  .step{
+    counter-increment:step;
+    position:relative;
+    display:flex; gap:1rem;
+    padding:1.1rem 0;
+    border-bottom:1px solid var(--line);
+  }
+  .step:last-child{border-bottom:none;}
+  .num{
+    flex:none;
+    font-family:"IBM Plex Mono", monospace;
+    font-weight:600; font-size:1rem;
+    width:2.1rem; height:2.1rem;
+    border-radius:50%;
+    background:var(--paper);
+    border:1.5px solid var(--accent);
+    color:var(--accent);
+    display:flex; align-items:center; justify-content:center;
+  }
+  .step-body{flex:1;}
+  .step-title{
+    font-weight:700; font-size:1.02rem; margin:0 0 .25rem;
+  }
+  .step-why{
+    font-size:.87rem; color:var(--ink-soft); margin:0;
+    line-height:1.5;
+  }
+  .step-who{
+    display:inline-block; margin-top:.4rem;
+    font-family:"IBM Plex Mono", monospace;
+    font-size:.68rem; letter-spacing:.04em; text-transform:uppercase;
+    color:var(--held); background:var(--held-bg);
+    padding:.15rem .5rem; border-radius:999px;
+  }
+  footer{
+    margin-top:2.5rem; padding-top:1.25rem; border-top:1px solid var(--line);
+    font-size:.8rem; color:var(--ink-soft);
+  }
+</style>
+
+<div class="wrap">
+  <h1>Qué desbloquea el trámite</h1>
+  <p class="subtitle">7 pasos, en orden de impacto. Los primeros tres son los que sostienen toda la cadena legal — sin ellos no se puede armar el expediente ante el Bundesverwaltungsamt (BVA).</p>
+  <p class="context">Caso completo, árbol genealógico y checklist detallado en el repositorio: <a href="https://github.com/FelipeScheihing/ciudadania-alemana-trini-lopez">github.com/FelipeScheihing/ciudadania-alemana-trini-lopez</a></p>
+
+  <div class="banner">
+    La vía legal es §5 StAG (declaración, sin costo, plazo hasta 19-08-2031): Eileen Beckett Vermehren no pudo heredar la nacionalidad alemana de su madre por una regla discriminatoria vigente hasta 1975. Trinidad y Ramiro pueden declarar como sus descendientes — pero primero hay que blindar la prueba documental.
+  </div>
+
+  <ol class="actions">
+    <li class="step">
+      <span class="num">1</span>
+      <div class="step-body">
+        <p class="step-title">Pedir la matrícula consular de Friedrich Wilhelm August Vermehren (Santiago 1-687)</p>
+        <p class="step-why">Resuelve la duda de identidad y fecha de nacimiento del inmigrante alemán — sin esto, no se puede confirmar que es el mismo padre de Carlos Oscar Augusto (nacido 1873).</p>
+        <span class="step-who">Consulado alemán en Santiago</span>
+      </div>
+    </li>
+    <li class="step">
+      <span class="num">2</span>
+      <div class="step-body">
+        <p class="step-title">Conseguir el acta de nacimiento de Eileen Beckett Vermehren (1959, Recoleta)</p>
+        <p class="step-why">Es la persona-puente de todo el trámite: Trinidad y Ramiro declaran como sus descendientes. Sin esta acta no hay expediente.</p>
+        <span class="step-who">Registro Civil, Chile</span>
+      </div>
+    </li>
+    <li class="step">
+      <span class="num">3</span>
+      <div class="step-body">
+        <p class="step-title">Conseguir el acta de matrimonio de Amelia Vermehren con Beckett (07-02-1959, Recoleta)</p>
+        <p class="step-why">Prueba que el matrimonio fue antes del nacimiento de Eileen — requisito legal exacto de la Checkliste del BVA (Nr. 1).</p>
+        <span class="step-who">Registro Civil, Chile</span>
+      </div>
+    </li>
+    <li class="step">
+      <span class="num">4</span>
+      <div class="step-body">
+        <p class="step-title">Pedir a los abogados el informe de la pre-evaluación</p>
+        <p class="step-why">Puede que ya tengan resuelto algo de lo anterior, o hayan detectado el mismo problema de fechas — evita duplicar trabajo.</p>
+      </div>
+    </li>
+    <li class="step">
+      <span class="num">5</span>
+      <div class="step-body">
+        <p class="step-title">Conseguir el acta de nacimiento de Carlos Oscar Augusto Vermehren (1873)</p>
+        <p class="step-why">Confirma en un documento primario que su padre es Friedrich Wilhelm August — hoy solo se infiere del acta de matrimonio.</p>
+        <span class="step-who">Registro Civil, Chile</span>
+      </div>
+    </li>
+    <li class="step">
+      <span class="num">6</span>
+      <div class="step-body">
+        <p class="step-title">Confirmar país de residencia actual de Trinidad y Ramiro</p>
+        <p class="step-why">Define qué consulado alemán es competente y de qué país debe salir el certificado de antecedentes penales (debe cubrir todo el país, no un estado o provincia).</p>
+      </div>
+    </li>
+    <li class="step">
+      <span class="num">7</span>
+      <div class="step-body">
+        <p class="step-title">Reunir documentos propios: acta de nacimiento, pasaporte/cédula y antecedentes penales de cada uno</p>
+        <p class="step-why">Es lo último que se arma, pero conviene ir pidiéndolo en paralelo — no depende de que se resuelva nada de lo anterior.</p>
+      </div>
+    </li>
+  </ol>
+
+  <footer>Análisis preliminar hecho con apoyo de IA, no asesoría legal.</footer>
+</div>
