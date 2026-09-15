@@ -1,5 +1,14 @@
 # Checklist de documentos — caso Trinidad/Ramiro López Beckett (§5 StAG)
 
+## Dónde pedir cada acta chilena (regla rápida)
+
+| Cuándo | Vía |
+|---|---|
+| Evento antes de 1885 | **Parroquia** — el Registro Civil chileno recién rige desde 01-01-1885, antes todo lo llevaban las iglesias |
+| Evento 1885+ y aparece en registrocivil.cl | **En línea** (más rápido, válido para el trámite) |
+| Evento 1885+ pero no aparece en línea (típico en libros no digitalizados, antes de ~1930-1940) | **Archivo Histórico del Registro Civil** (Santiago, presencial o por carta) |
+| Evento reciente que no aparece por error de tipeo/circunscripción | **Oficina normal** de Registro Civil (cualquier sucursal) |
+
 ## Tenemos
 
 | Doc | Persona | Carpeta | Nota |
@@ -21,11 +30,11 @@
 - [ ] Confirmar que no perdió la nacionalidad alemana antes del nacimiento de Carlos Oscar (1873) — ej. si se naturalizó chileno antes de esa fecha, la cadena se rompe.
 
 ### Generación Carlos Oscar Augusto Vermehren Schulze
-- [ ] **Acta de nacimiento** de Carlos Oscar Augusto (1873) — no la tenemos, solo matrimonio y defunción. Necesaria para confirmar padres y fecha exacta.
+- [ ] **Acta de nacimiento/bautismo** de Carlos Oscar Augusto (1873) — **vía parroquia, NO Registro Civil** (nació antes de 1885). Buscar en parroquia católica de la zona o comunidad alemana luterana de Valparaíso.
 
 ### Generación Kurt Roland Vermehren Keller
-- [ ] **Acta de matrimonio** Kurt Roland Vermehren Keller + Blanca Stevenson Moreira (fecha/lugar desconocidos — pendiente en el propio Family Tree)
-- [ ] Acta de defunción de Kurt Roland (si corresponde — "por confirmar" en el árbol)
+- [ ] **Acta de matrimonio** Kurt Roland Vermehren Keller + Blanca Stevenson Moreira (fecha/lugar desconocidos) — probar **Archivo Histórico del Registro Civil** si no aparece en línea.
+- [ ] Acta de defunción de Kurt Roland (si corresponde — "por confirmar" en el árbol) — mismo criterio.
 
 ### Generación Amelia Viola Vermehren Stevenson
 - [ ] **Acta de nacimiento** de Amelia Viola (1939, Ñuñoa)
