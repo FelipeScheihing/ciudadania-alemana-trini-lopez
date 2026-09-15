@@ -14,9 +14,11 @@
 ## Nos falta (según lo que exige el trámite §5 StAG)
 
 ### Tramo alemán (crítico — resuelve el problema aritmético)
-- [ ] **Matrícula consular completa** de Friedrich Wilhelm August Vermehren (Santiago 1-687) — pedir copia al Consulado alemán en Santiago o al Auswärtiges Amt. Debería traer fecha/lugar de nacimiento exactos y resolver la identidad.
-- [ ] Acta de defunción de Friedrich Wilhelm August Vermehren (Hamburgo, 1924) — trae la fecha de nacimiento exacta.
-- [ ] Confirmar que Friedrich Wilhelm August **no perdió la nacionalidad alemana** antes del nacimiento de Carlos Oscar (1873) — ej. si se naturalizó chileno antes de esa fecha, la cadena se rompe.
+- [x] ~~Identidad del inmigrante~~ **ACTUALIZADO 2026-09-15**: vía FamilySearch confirmamos que el inmigrante correcto es **Federico Guillermo Augusto Vermehren Lundt** (n. Lübeck, hermano de Friedrich Wilhelm August Vermehren — NO la misma persona). El acta de bautismo que teníamos archivada es de su hermano. Ver `analisis-legislacion-aplicable.md` §3.
+- [ ] **Acta de bautismo/nacimiento correcta** de Federico Guillermo Augusto Vermehren Lundt, Lübeck — la que tenemos es del hermano equivocado. FamilySearch le atribuye "11-04-1867" pero esa fecha no tiene fuente alemana primaria y sigue sin cuadrar con el nacimiento de Carlos Oscar (1873) — hay que buscar el registro real en el archivo parroquial de Lübeck.
+- [ ] **Matrícula consular completa** de Federico Guillermo Augusto Vermehren (Santiago 1-687) — pedir copia al Consulado alemán en Santiago o al Auswärtiges Amt. Debería traer fecha/lugar de nacimiento exactos y resolver definitivamente la identidad.
+- [ ] Acta de defunción completa de Federico Guillermo Augusto Vermehren (Hamburgo, 1924) — trae la fecha de nacimiento exacta.
+- [ ] Confirmar que no perdió la nacionalidad alemana antes del nacimiento de Carlos Oscar (1873) — ej. si se naturalizó chileno antes de esa fecha, la cadena se rompe.
 
 ### Generación Carlos Oscar Augusto Vermehren Schulze
 - [ ] **Acta de nacimiento** de Carlos Oscar Augusto (1873) — no la tenemos, solo matrimonio y defunción. Necesaria para confirmar padres y fecha exacta.
