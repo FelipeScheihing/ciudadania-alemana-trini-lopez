@@ -36,6 +36,22 @@ Trinidad Sofía López Beckett
 [tu email / teléfono]
 ```
 
+## 1b. Embajada de Alemania en Santiago (opción paralela, no reemplaza a Berlín)
+
+Los consulados traspasan sus Matrikelbücher antiguos al Politisches Archiv en Berlín después de cierta
+antigüedad — una matrícula de fines del 1800/principios 1900 casi seguro ya está allá. Igual vale la
+pena escribirle a la Embajada en paralelo: es gratis, rápido, y puede confirmar el traspaso u orientar
+mejor la búsqueda.
+
+**Contacto:** Embajada de la República Federal de Alemania en Santiago
+Dirección: Las Hualtatas 5677, Vitacura, Santiago
+Teléfono: +56 2 2463 2500 (no dan información consular por teléfono — usar el formulario)
+Formulario de contacto: https://santiago.diplo.de/cl-es/sobre-nosotros/kontakt-formular
+
+**Qué pedir:** preguntar si conservan localmente el Matrikelbuch histórico del Consulado de Santiago
+(referencia "Santiago 1-687", familia Vermehren, décadas 1870-1920), o si ya fue transferido al
+Politisches Archiv des Auswärtigen Amt en Berlín — y si pueden facilitar el trámite/contacto allá.
+
 ## 2. Acta de bautismo y matrimonio en Alemania (Lübeck)
 
 **A quién pedir (registros 1576–1870, incluye el bautismo que ya tenemos y el posible matrimonio si fue antes de 1870):**
