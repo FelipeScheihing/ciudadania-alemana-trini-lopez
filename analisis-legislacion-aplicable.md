@@ -55,42 +55,17 @@ establecida desde la reforma de 2021 (§5 StAG), sin necesidad de probar pérdid
 persecución nazi (que es la vía §15 StAG que uso yo en mi propio caso — más compleja en materia
 probatoria). Aquí la vía es más simple **si** se logra probar sólidamente el tramo alemán inicial.
 
-## 3. El problema aritmético — RESUELTO PARCIALMENTE (2026-09-15, vía FamilySearch)
+## 3. Identidad del inmigrante — una sola persona, con inconsistencias de fecha entre fuentes
 
-Revisé el árbol público de FamilySearch (perfil enlazado por la familia: `KLZK-FHP`) y encontré la causa
-del problema: **hay dos hermanos Vermehren con nombres casi idénticos**, ambos hijos de Daniel August
-Bernhard Vermehren y Henriette Friederike Wilhelmine Lundt, en Lübeck:
-
-| | Friedrich Wilhelm August Vermehren (`KLZK-FHP`) | Federico Guillermo Augusto Vermehren Lundt (`GCNH-45P`) |
-|---|---|---|
-| Nacimiento | 15-09-1845, Lübeck (con acta de bautismo alemana confirmada, N°605 iglesia luterana — la que tenemos en `01-Friedrich-Wilhelm-August-Vermehren/`) | 11-04-1867, Lübeck (dato **sin fuente alemana primaria** — ver abajo) |
-| Cónyuge | Clara **Therese** Vermehren | Clara **Teresa** Schulze |
-| Hijos conocidos | August Wilhelm Hermann Vermehren, nacido **1879 en Lübeck** (bautizado en St. Marien) — la familia se quedó en Alemania | 5 hijos, **todos nacidos en Chile** entre 1873 y 1891 (Valparaíso, Concepción, Viña del Mar) — incluyendo **Carlos Oscar Augusto Vermehren Schulze (1873–1961)**, que es exactamente nuestro ancestro |
-| Defunción | Sin registrar en FamilySearch | 1924, Hamburgo, ~56-57 años — coincide con el acta de defunción que ya teníamos |
-
-**Conclusión: el acta de bautismo de Lübeck N°605 que tenemos archivada es de la persona equivocada**
-— es la del hermano mayor (Friedrich Wilhelm August, 1845), cuya familia se quedó en Alemania y nunca
-emigró. El verdadero inmigrante a Chile, padre de Carlos Oscar Augusto, es su hermano **Federico
-Guillermo Augusto Vermehren Lundt**. El nombre "Federico Guillermo Augusto" es simplemente la
-traducción/hispanización de "Friedrich Wilhelm August" — por eso ambos hermanos, indexados en dos
-países distintos (registros alemanes vs. chilenos), se ven casi idénticos y es fácil confundirlos. Esto
-también explica la nota "11-04-1845 o 1867?" que ya existía en el `Family Tree.docx` de la familia — la
-fecha 11-04 corresponde en realidad al hermano correcto (1867), no al que tiene el acta que guardamos.
-
-**El problema aritmético NO está totalmente resuelto todavía:** las 8 fuentes que FamilySearch tiene
-adjuntas al perfil de Federico Guillermo Augusto Vermehren Lundt (`GCNH-45P`) son **todas registros
-chilenos** (parroquiales y Registro Civil, 1877–1933) — ninguna es un registro alemán primario de su
-nacimiento. Es decir, el año "1867" ahí probablemente se copió de la lista de hermanos del perfil
-alemán sin verificación cruzada, y **sigue sin cuadrar** con que su primer hijo (Carlos Oscar) haya
-nacido en 1873 (lo dejaría con 6 años). Se necesita el acta de bautismo alemana **real** de Federico
-Guillermo Augusto (distinta de la que tenemos, que es de su hermano) para fijar su fecha de nacimiento
-verdadera — probablemente unos años antes de 1867.
-
-**Próximo paso concreto:** pedir en FamilySearch / archivo parroquial de Lübeck el registro de bautismo
-de "Federico Guillermo Augusto Vermehren" (o "Friedrich Guillermo/Wilhelm August Vermehren Lundt"),
-hijo de Daniel August Bernhard Vermehren y Henriette Lundt, evitando confundirlo con el N°605 ya
-archivado (ese es del hermano). La matrícula consular (Santiago 1-687) sigue siendo la vía más directa
-para confirmar la fecha exacta, porque fue registrada por el propio inmigrante.
+En FamilySearch el inmigrante aparece indexado dos veces: como "Friedrich Wilhelm August Vermehren"
+(vía registros alemanes de Lübeck, con el acta de bautismo N°605 que tenemos archivada) y como
+"Federico Guillermo Augusto Vermehren Lundt" (vía registros chilenos — matrimonio con Clara Teresa
+Schulze y los 5 hijos nacidos en Chile entre 1873 y 1891, incluido Carlos Oscar Augusto). Es la
+**misma persona** — el nombre en español es la traducción de "Friedrich Wilhelm August" y la esposa
+coincide (Clara Therese/Teresa). Las fechas de nacimiento (1845 vs. 1867) y de muerte no calzan entre
+sí — hay errores tipográficos o de transcripción en algún punto de la cadena de fuentes. Pendiente de
+revisión manual por la familia con los documentos primarios (ver §4 más abajo y `contactos-y-solicitudes.md`
+con las gestiones para conseguirlos).
 
 ## 4. Legislación de referencia
 - §5 StAG (Erklärungserwerb — adquisición por declaración), vigente desde 20-08-2021, plazo límite **19-08-2031**.
