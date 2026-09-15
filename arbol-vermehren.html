@@ -247,6 +247,46 @@
     font-size:.8rem;
     color:var(--ink-soft);
   }
+
+  .section-title{
+    font-family:"Fraunces", Georgia, serif;
+    font-weight:600;
+    font-size:1.4rem;
+    margin:3rem 0 .4rem;
+    text-wrap:balance;
+  }
+  .table-scroll{
+    overflow-x:auto;
+    border:1px solid var(--line);
+    border-radius:12px;
+    margin-top:1.25rem;
+  }
+  table{border-collapse:collapse; width:100%; min-width:900px; background:var(--paper);}
+  thead th{
+    text-align:left; font-size:.66rem; letter-spacing:.06em; text-transform:uppercase;
+    color:var(--ink-soft); font-weight:600; padding:.7rem .85rem;
+    border-bottom:1px solid var(--line); white-space:nowrap;
+  }
+  tbody td{
+    padding:.75rem .85rem; font-size:.84rem; vertical-align:top;
+    border-bottom:1px solid var(--line); line-height:1.5;
+  }
+  tbody tr:last-child td{border-bottom:none;}
+  tr.group-row td{
+    background:var(--accent-soft); color:var(--accent);
+    font-weight:700; font-size:.72rem; letter-spacing:.04em; text-transform:uppercase;
+    padding:.5rem .85rem;
+  }
+  .pill{
+    display:inline-block; font-family:"IBM Plex Mono", monospace;
+    font-size:.64rem; letter-spacing:.03em; text-transform:uppercase;
+    padding:.12rem .5rem; border-radius:999px; white-space:nowrap;
+    margin-bottom:.15rem;
+  }
+  .pill.held{background:var(--held-bg); color:var(--held);}
+  .pill.missing{background:var(--missing-bg); color:var(--missing);}
+  .pill.dudosa{background:var(--dudosa-bg); color:var(--dudosa);}
+  .pill.crit{background:var(--accent-soft); color:var(--crit); border:1px solid var(--crit);}
 </style>
 
 <div class="wrap">
@@ -358,6 +398,172 @@
       </div>
     </div>
 
+  </div>
+
+  <h2 class="section-title">Checklist completo exigido por el BVA</h2>
+  <p class="subtitle">Todo lo que pide el Bundesverwaltungsamt para el trámite §5 StAG, documento por documento, con dónde conseguir cada uno y el contacto exacto.</p>
+
+  <div class="table-scroll">
+    <table>
+      <thead>
+        <tr>
+          <th>Documento</th>
+          <th>Persona</th>
+          <th>Estado</th>
+          <th>Dónde / contacto</th>
+          <th>Acción</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="group-row"><td colspan="5">Formularios oficiales del BVA</td></tr>
+        <tr>
+          <td>Vordruck_EER (Erklärung)</td>
+          <td>Cada solicitante</td>
+          <td><span class="pill held">Tenemos</span></td>
+          <td>Ya en <code>00-Formularios-BVA/</code>, en blanco</td>
+          <td>Llenar y firmar — una por solicitante</td>
+        </tr>
+        <tr>
+          <td>Anlage_EER</td>
+          <td>Cada solicitante</td>
+          <td><span class="pill held">Tenemos</span></td>
+          <td>Ya en <code>00-Formularios-BVA/</code>, en blanco</td>
+          <td>Llenar (solo si no hay otro trámite BVA en curso)</td>
+        </tr>
+        <tr>
+          <td>Anlage_AV (ancestros adicionales)</td>
+          <td>Una por generación: Eileen, Amelia, Kurt, Carlos Oscar, inmigrante</td>
+          <td><span class="pill held">Tenemos</span></td>
+          <td>Plantilla en <code>00-Formularios-BVA/</code></td>
+          <td>Llenar 5 copias, una por generación</td>
+        </tr>
+        <tr class="group-row"><td colspan="5">Solicitantes — Trinidad y Ramiro</td></tr>
+        <tr>
+          <td>Copia pasaporte / cédula vigente</td>
+          <td>Trinidad y Ramiro</td>
+          <td><span class="pill missing">Falta</span></td>
+          <td>Trámite propio</td>
+          <td>Escanear documento vigente</td>
+        </tr>
+        <tr>
+          <td>Acta de nacimiento propia</td>
+          <td>Trinidad y Ramiro</td>
+          <td><span class="pill missing">Falta</span></td>
+          <td>Registro Civil Chile — <a href="https://www.registrocivil.cl">registrocivil.cl</a></td>
+          <td>Pedir en línea</td>
+        </tr>
+        <tr>
+          <td>Acta de matrimonio propia</td>
+          <td>Trinidad (14-05-2025, Odense)</td>
+          <td><span class="pill missing">Falta</span></td>
+          <td>Registro civil danés (Odense) o Chile si ya se inscribió</td>
+          <td>Pedir copia o verificar inscripción en Chile</td>
+        </tr>
+        <tr>
+          <td>Certificado de antecedentes penales</td>
+          <td>Trinidad y Ramiro</td>
+          <td><span class="pill missing">Falta</span></td>
+          <td>Autoridad del país de residencia actual (cubrir todo el país, &lt;6 meses)</td>
+          <td>Definir residencia primero, luego tramitar</td>
+        </tr>
+        <tr class="group-row"><td colspan="5">Eileen Beckett Vermehren — persona-puente §5 StAG Nr.1</td></tr>
+        <tr>
+          <td>Acta de nacimiento (19-08-1959, Recoleta)</td>
+          <td>Eileen</td>
+          <td><span class="pill missing">Falta</span> <span class="pill crit">Crítico</span></td>
+          <td>Registro Civil Chile — <a href="https://www.registrocivil.cl">registrocivil.cl</a></td>
+          <td>Buscar en línea; si no, oficina Recoleta</td>
+        </tr>
+        <tr>
+          <td>Acta de matrimonio (15-10-1982, no crítica)</td>
+          <td>Eileen + Patricio López</td>
+          <td><span class="pill missing">Falta</span></td>
+          <td>Registro Civil Chile</td>
+          <td>Pedir en línea si se necesita acreditar apellidos</td>
+        </tr>
+        <tr class="group-row"><td colspan="5">Amelia Vermehren Stevenson — madre de Eileen</td></tr>
+        <tr>
+          <td>Acta de nacimiento (26-04-1939, Ñuñoa)</td>
+          <td>Amelia</td>
+          <td><span class="pill missing">Falta</span></td>
+          <td>Registro Civil Chile — en línea primero</td>
+          <td>Buscar en línea; si no, Archivo Histórico</td>
+        </tr>
+        <tr>
+          <td>Acta de matrimonio con Beckett (07-02-1959, Recoleta)</td>
+          <td>Amelia + Juan Beckett</td>
+          <td><span class="pill missing">Falta</span> <span class="pill crit">Crítico</span></td>
+          <td>Registro Civil Chile</td>
+          <td>Prueba matrimonio antes del nacimiento de Eileen — buscar en línea, si no Archivo Histórico</td>
+        </tr>
+        <tr class="group-row"><td colspan="5">Kurt Roland Vermehren Keller — padre de Amelia</td></tr>
+        <tr>
+          <td>Acta de nacimiento (14-12-1909)</td>
+          <td>Kurt Roland</td>
+          <td><span class="pill held">Tenemos</span></td>
+          <td>En <code>03-Kurt-Roland-Vermehren-Keller/</code></td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>Acta de matrimonio con Blanca Stevenson</td>
+          <td>Kurt Roland</td>
+          <td><span class="pill missing">Falta</span></td>
+          <td>Archivo Histórico del Registro Civil (Santiago)</td>
+          <td>Solicitar presencial o por carta — fecha/lugar aún sin confirmar</td>
+        </tr>
+        <tr class="group-row"><td colspan="5">Carlos Oscar Augusto Vermehren Schulze — padre de Kurt</td></tr>
+        <tr>
+          <td>Acta de matrimonio con Julia Keller (30-05-1901)</td>
+          <td>Carlos Oscar Augusto</td>
+          <td><span class="pill held">Tenemos</span></td>
+          <td>En <code>02-Carlos-Oscar-Augusto-Vermehren-Schulze/</code></td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>Acta de defunción (06-08-1961)</td>
+          <td>Carlos Oscar Augusto</td>
+          <td><span class="pill held">Tenemos</span></td>
+          <td>En <code>02-Carlos-Oscar-Augusto-Vermehren-Schulze/</code></td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>Acta de nacimiento/bautismo (1873)</td>
+          <td>Carlos Oscar Augusto</td>
+          <td><span class="pill missing">Falta</span></td>
+          <td>Parroquia católica local o comunidad alemana, Valparaíso (nació antes de 1885 — no hay Registro Civil)</td>
+          <td>Escribir/visitar la parroquia</td>
+        </tr>
+        <tr class="group-row"><td colspan="5">Inmigrante alemán (Friedrich Wilhelm August / Federico Guillermo Augusto Vermehren) — origen de la nacionalidad</td></tr>
+        <tr>
+          <td>Acta de bautismo, Lübeck</td>
+          <td>Inmigrante</td>
+          <td><span class="pill dudosa">Tenemos, a confirmar</span></td>
+          <td>En <code>01-Friedrich-Wilhelm-August-Vermehren/</code></td>
+          <td>Confirmar contra los datos de la matrícula consular</td>
+        </tr>
+        <tr>
+          <td>Prueba de nacionalidad alemana (matrícula consular / pasaporte alemán)</td>
+          <td>Inmigrante</td>
+          <td><span class="pill missing">Falta</span> <span class="pill crit">Crítico</span></td>
+          <td>Politisches Archiv des Auswärtigen Amt, Berlín — <a href="https://archiv.diplo.de/arc-de/das-politische-archiv/kontakt">archiv.diplo.de/kontakt</a><br>(en paralelo: Embajada Alemania Santiago)</td>
+          <td>Pedir ficha "Santiago 1-687"</td>
+        </tr>
+        <tr>
+          <td>Acta de defunción (Hamburgo, 1924)</td>
+          <td>Inmigrante</td>
+          <td><span class="pill missing">Falta</span></td>
+          <td>Staatsarchiv Hamburg — servicio de consulta en línea (cubre defunciones hasta 1950)<br><a href="https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-kultur-und-medien/einrichtungen/staatsarchiv/online-dienst-fuer-anfragen">hamburg.de → online-dienst</a></td>
+          <td>Enviar solicitud vía el servicio en línea del archivo</td>
+        </tr>
+        <tr>
+          <td>Acta de matrimonio con Clara Teresa Schulze</td>
+          <td>Inmigrante + Clara Teresa Schulze</td>
+          <td><span class="pill missing">Falta</span> <span class="pill crit">Crítico</span></td>
+          <td>Archiv der Hansestadt Lübeck (archiv@luebeck.de) o Iglesia Luterana Valparaíso, según dónde se casaron</td>
+          <td>Ver los 2 correos de la tabla de próximos pasos</td>
+        </tr>
+      </tbody>
+    </table>
   </div>
 
   <footer>
