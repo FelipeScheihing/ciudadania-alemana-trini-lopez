@@ -67,6 +67,34 @@ sí — hay errores tipográficos o de transcripción en algún punto de la cade
 revisión manual por la familia con los documentos primarios (ver §4 más abajo y `contactos-y-solicitudes.md`
 con las gestiones para conseguirlos).
 
+## 3b. Hallazgo 2026-09-15: acta de defunción localizada en el Staatsarchiv Hamburg
+
+Encontrado en el **Generalregister Sterbefälle 1924** del Staatsarchiv Hamburg (volumen Kr-Z,
+signatura de microfilm 49048, Film-Nr. A 250/52), descargado del sitio oficial hamburg.de:
+
+```
+Zuname      Vornamen              St.A.   Nr.    Tag    Jahr
+Vermehren   Friedr. Wilh. Aug.    22      492    9/2    1924
+```
+
+Datos para pedir la copia del acta completa:
+
+| Campo | Valor |
+|---|---|
+| Fecha de defunción | 9 de febrero de 1924 |
+| Standesamt | 22 Hamburg |
+| Registernummer | 492 |
+| Bestellsignatur | 332-5, Nr. 885 (Sterbefälle Standesamt 22 Hamburg, Nrn. 0001-0496, 01.01.–10.07.1924) |
+
+La Bestellsignatur se obtuvo del Findbuch 332-5 Band 03 (Sterbebücher), también del sitio del archivo.
+
+**Por qué importa:** el acta de defunción alemana de la época consigna normalmente fecha y lugar de
+nacimiento, estado civil, nombre del cónyuge y a veces los padres. Es la vía más directa para fijar la
+fecha de nacimiento real del inmigrante y cerrar la discrepancia 1845 / 1867 descrita en §3.
+
+Imágenes del índice guardadas en `01-Friedrich-Wilhelm-August-Vermehren/`. El PDF fuente completo
+(200 MB) queda solo en local, fuera del repositorio por tamaño.
+
 ## 4. Legislación de referencia
 - §5 StAG (Erklärungserwerb — adquisición por declaración), vigente desde 20-08-2021, plazo límite **19-08-2031**.
 - Formularios: Vordruck_EER, Anlage_EER (solo si no hay procedimiento BVA en curso), Anlage_AV (para generaciones adicionales — Trinidad/Ramiro la necesitarán para acreditar a Kurt Roland y a Friedrich Wilhelm August como ascendientes de Eileen).
