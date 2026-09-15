@@ -1,5 +1,58 @@
 # Contactos y solicitudes — documentos faltantes del tronco Vermehren
 
+## 0. ✅ LOCALIZADO (2026-09-15): acta de defunción en Hamburgo
+
+Encontré el registro en el **Generalregister Sterbefälle 1924** del Staatsarchiv Hamburg
+(volumen Kr-Z, signatura del microfilm 49048, Film-Nr. A 250/52). Imágenes guardadas en
+`01-Friedrich-Wilhelm-August-Vermehren/`.
+
+Entrada exacta del índice: `Vermehren | Friedr. Wilh. Aug. | St.A. 22 | Nr. 492 | 9/2 | 24`
+
+| Campo | Valor |
+|---|---|
+| Nombre | Friedrich Wilhelm August Vermehren |
+| Fecha de defunción | **9 de febrero de 1924** |
+| Standesamt | 22 Hamburg |
+| Registernummer | 492 |
+| **Bestellsignatur** | **332-5, Nr. 885** (Sterbefälle Standesamt 22 Hamburg, registros 0001-0496, 01.01.1924–10.07.1924) |
+
+Con estos datos ya se puede pedir la **copia del acta completa**, que debería traer fecha y lugar
+de nacimiento exactos, estado civil, cónyuge y posiblemente los padres — justo lo que resuelve la
+discrepancia de fechas del tronco alemán.
+
+**A quién pedir:** Staatsarchiv Hamburg — servicio de consulta en línea
+(cubre defunciones hasta 1950): https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-kultur-und-medien/einrichtungen/staatsarchiv/online-dienst-fuer-anfragen
+
+**Borrador de correo (alemán):**
+```
+Betreff: Bitte um Kopie eines Sterbeeintrags – Bestand 332-5, Nr. 885
+
+Sehr geehrte Damen und Herren,
+
+ich bitte um eine Kopie des folgenden Sterbeeintrags aus dem Bestand 332-5 Standesämter:
+
+  Name:              Friedrich Wilhelm August Vermehren
+  Sterbedatum:       9. Februar 1924
+  Standesamt:        22 Hamburg
+  Registernummer:    492
+  Bestellsignatur:   332-5, Nr. 885
+                     (Sterbefälle Standesamt 22 Hamburg, Nrn. 0001–0496,
+                      01.01.1924–10.07.1924)
+
+Den Eintrag habe ich über das Generalregister der Sterbefälle 1924
+(Signatur 49048, Film-Nr. A 250/52) ermittelt.
+
+Ich benötige die Urkunde für ein Staatsangehörigkeitsverfahren nach § 5 StAG
+beim Bundesverwaltungsamt.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen
+Trinidad Sofía López Beckett
+[tu email / teléfono]
+```
+
+
 Nota: se trata al inmigrante como una sola persona (Friedrich Wilhelm August Vermehren /
 "Federico Guillermo Augusto" en Chile), con posibles errores tipográficos de fecha entre las
 fuentes alemanas y chilenas — a revisar manualmente por la familia.
