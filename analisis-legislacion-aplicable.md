@@ -107,6 +107,14 @@ Detalle completo en `analisis-matricula-consular-regla-10-anios.md`. Resumen:
   edad. En los registros conservados revisados **no se ubicó documentación consular de Carlos Oscar Augusto
   (n. 1873)**; faltan libros de Valparaíso (pre-1906) y Concepción (pre-1892), por lo que no es concluyente.
   Ver `analisis-matricula-consular-regla-10-anios.md` §5–6.
+- **Ampliación 17-09-2026:** la búsqueda consular se extendió a **Valdivia** (índice de la Matrikel
+  AB 2/916 y Passregister AB 2/918, 1892–1908) y a **Osorno** (Matrikel AB 2/596, vía el índice general),
+  porque el aviso fúnebre de 1926 sitúa hijos en Valdivia. El índice general de matrículas de Chile
+  contiene **un solo Vermehren en todo el país**: Friedrich Wilhelm August, Santiago Band 1 N° 687.
+  Se mantiene la misma limitación: los tomos perdidos de Valparaíso y Concepción.
+  También se revisó la **ventana decisiva 1894–1904** para Carlos Oscar en fuentes alemanas
+  (listas de pasajeros, pasaportes y padrón de forasteros de Hamburgo, archivo de Lübeck): sin resultado,
+  y con las limitaciones anotadas en `analisis-matricula-consular-regla-10-anios.md` §8.
 
 ## 4. Legislación de referencia
 - §5 StAG (Erklärungserwerb — adquisición por declaración), vigente desde 20-08-2021, plazo límite **19-08-2031**.

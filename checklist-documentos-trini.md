@@ -31,7 +31,7 @@
 - [ ] **Enviar la inscripción de la matrícula al consulado** (staatsangehoerigkeit@santi.diplo.de, "Santiago, Band 1, N° 687") con pregunta abierta sobre documentación por generación. Borrador en `contactos-y-solicitudes.md` §1.
 
 ### Punto a evaluar con abogado: documentación consular de Carlos Oscar Augusto (n. 1873)
-- [ ] En los registros consulares conservados revisados no se ubicó documentación a su nombre (faltan libros de Valparaíso pre-1906 y Concepción pre-1892). Evaluarlo con abogado especialista antes de avanzar.
+- [ ] En los registros consulares conservados revisados no se ubicó documentación a su nombre. Revisados a 17-09-2026: índice general de matrículas de Chile (un solo Vermehren en todo el país, el inmigrante), Santiago, Valdivia (matrícula y pasaportes 1892–1908) y Osorno. Faltan los libros de Valparaíso pre-1906 y Concepción pre-1892, que no se conservan. Evaluarlo con abogado especialista antes de avanzar.
 - [ ] **Ventana decisiva 1894–1904**: cualquier prueba de estadía en Alemania o de papeles alemanes vigentes en esos años cierra el punto (§ 21 exige 10 años *ininterrumpidos*; la regla se derogó el 01-01-1914). Fuentes en línea ya agotadas — ver `analisis-matricula-consular-regla-10-anios.md` §8.
 - [ ] Escribir a Lübeck por padrones, Heimatscheine y pasaportes 1885–1910 (borrador ampliado en `contactos-y-solicitudes.md` §5).
 - [ ] Buscar en la familia documentos de Carlos Oscar ~1890–1914: pasaportes o documentos alemanes, certificados consulares, libretas militares, cartas o pasajes de viajes a Alemania.

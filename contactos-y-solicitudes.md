@@ -110,6 +110,9 @@ ich bitte um eine beglaubigte Reproduktion des Matrikeleintrags Nr. 687
 (Friedrich Wilhelm August Vermehren, geb. 15.09.1845 in Lübeck) aus dem Bestand
 PA AA AB 2/801, Matrikel des Konsulats Santiago de Chile 1861–1910, Digitalisat Nr. 52.
 
+Die Matrikelbände der Konsulate Santiago, Valdivia und Osorno sowie das Passregister
+Valdivias (AB 2/918) habe ich bereits über invenio eingesehen.
+
 Außerdem wäre ich dankbar für Hinweise, welche weiteren Bestände Ihres Hauses
 Einträge zur Familie Vermehren in Chile enthalten könnten (z. B. Matrikel, Passregister
 oder Schutzscheinregister der Konsulate Valparaíso und Concepción).

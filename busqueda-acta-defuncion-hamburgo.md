@@ -65,6 +65,10 @@ Hamburger Nachrichten, 8-02-1926, p. 4 — imagen en
 
 Nota: la lista de firmantes no nombra a todos los hijos; no se sacan conclusiones de las ausencias.
 
+Por este aviso se revisaron después los registros del consulado alemán de **Valdivia** (donde vivía
+August Vermehren) y de **Osorno**: ningún Vermehren. Detalle en
+`analisis-matricula-consular-regla-10-anios.md` §8.
+
 ## Listas de pasajeros de Hamburgo (ACTApro, fichas completas)
 
 Fuente: Staatsarchiv Hamburg, Bestand 373-7 I Auswanderungsamt, VIII A 1 (listas de emigrantes
