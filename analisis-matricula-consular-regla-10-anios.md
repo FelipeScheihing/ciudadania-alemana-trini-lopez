@@ -184,20 +184,39 @@ escrito si alguien perdió la nacionalidad** — esa evaluación la hace el abog
 o de que tuvo papeles alemanes vigentes (pasaporte, Heimatschein, inscripción consular) en esos
 años, cerraría el punto: el plazo se reiniciaría y ya no podría completarse antes del 01-01-1914.
 
-**Búsqueda hecha (2026-09-17).** ACTApro, listas de pasajeros de Hamburgo, término "Vermehren",
-1890–1915: 18 fichas. Ninguna corresponde a un Vermehren de la edad de Carlos Oscar con rumbo a
-Chile en la ventana 1894–1904 (las de esos años son otras familias: Sardinia 1899 a México,
-Kurfürst 1902 "Hans, 21" a Sudáfrica, König Wilhelm II 1908 "Wilhelm, 23", Cap Vilano 1910
-"Elisabeth, 18").
+**Búsquedas hechas (2026-09-17).** Todas las fuentes en línea y gratuitas que indexan nombres:
 
-**Limitaciones importantes de esa búsqueda:**
+| Fuente | Alcance | Resultado para nuestra familia |
+|---|---|---|
+| ACTApro — listas de pasajeros de Hamburgo, "Vermehren" 1890–1915 | 18 fichas | Ningún Vermehren de la edad de Carlos Oscar con rumbo a Chile en 1894–1904 (las de esos años son otras familias: Sardinia 1899 a México, Kurfürst 1902 "Hans, 21" a Sudáfrica, König Wilhelm II 1908 "Wilhelm, 23", Cap Vilano 1910 "Elisabeth, 18") |
+| ACTApro — todo el archivo, "Vermehren" 1850–1945 | 172 registros | Ninguno a nombre de Friedrich Wilhelm August ni de Carlos Oscar Augusto (los expedientes personales son de otras ramas Vermehren de Hamburgo) |
+| Staatsarchiv Hamburg, 332-8 Meldewesen — **Reisepassprotokolle, registro alfabético 1855–1897** (PDF libre) | Pasaportes emitidos por la policía de Hamburgo | Bajo "Vermehren" figuran Bernhard, Carl Emil Johann (1868) y Hermann Wilhelm Moritz (Güstrow). Ninguno de los nuestros. Imagen en `02-.../indices-hamburgo-revisados/` |
+| Staatsarchiv Hamburg, 332-8 — **Fremdenmeldeprotokolle (hombres), registro alfabético 1868–1889** (PDF libre) | Inscripción policial en Hamburgo | 13 entradas Vermehren, ninguna corresponde (los de Lübeck son Paul, Paul Ad. y Rich., otras personas). Imagen en la misma carpeta |
+| Archivo de la Hansestadt Lübeck — buscador en línea, "Vermehren" | 121 registros | Expedientes de otras ramas (senadores, comerciantes). El buscador **no indexa padrones ni fichas de habitantes**, así que esto no descarta nada |
+| Staatsarchiv Bremen — listas de pasajeros | — | Las listas de **1875 a 1908 fueron destruidas** por falta de espacio; solo sobreviven restos de 1907/08 y 1913/14. Esa vía no existe |
+
+**Limitaciones importantes:**
 - Las listas de Hamburgo son de **salidas** de emigrantes por ese puerto: no registran entradas a
   Alemania ni viajes por Bremen, Amberes, Liverpool u otros puertos.
 - Los pasajeros que no viajaban como emigrantes podían no quedar en estas listas.
+- El registro de forasteros de Hamburgo solo cubre 1868–1889 y solo a quienes tenían obligación de
+  inscribirse; el padrón general de habitantes empieza en 1892 y **no está digitalizado**.
 - Son índices transcritos, con erratas posibles en nombres y edades.
 
-**Dónde seguir buscando presencia en Alemania (1894–1904):**
-- Registros de habitantes y de forasteros de Hamburgo (Meldewesen) y de Lübeck.
-- Archivo de la Hansestadt Lübeck: padrones, Bürgerrolle, registros escolares.
-- Papeles de familia: pasaportes, visas, cartas o fotos fechadas en Alemania.
-- Politisches Archiv: registros de pasaportes y Schutzscheine de los consulados en Chile.
+**Lo que queda, y ya no se puede hacer en línea** (hay que escribir o ir):
+
+1. **Archivo de la Hansestadt Lübeck** — series que existen y cubren la ventana, pero no están
+   indexadas por nombre en línea:
+   - Padrón de habitantes: el Einwohnermeldeamt de Lübeck se crea en 1883–1884
+     (expediente `01.1-01 (5) : 24392`); los registros de inscripción están en
+     `02.06 Staatliche Polizeiverwaltung Lübeck`.
+   - `Heimatberechtigung (= Heimatscheine), Staatsangehörigkeit pp.` — serie de expedientes de
+     emisión de Heimatscheine, con tomos hasta 1884, y `Ausstellung von Heimatscheinen und
+     ähnlichen Ausweispapieren (Reichs- und Staatsangehörigkeitsgesetz)` para el período posterior.
+   - `Passangelegenheiten` (pasaportes) y `Liste der ausgestellten Heimatscheine`.
+2. **Staatsarchiv Hamburg** — padrón de habitantes desde 1892 (332-8 Meldewesen), no digitalizado:
+   sirve además para confirmar el domicilio de Sievekingsallee 10 en 1922–1924.
+3. **Politisches Archiv (Berlín)** — registros de pasaportes y Schutzscheine de los consulados
+   alemanes en Chile (pregunta ya incluida en el borrador §3 de `contactos-y-solicitudes.md`).
+4. **Papeles de familia** — pasaportes, visas, libretas, cartas o fotos fechadas en Alemania.
+5. **Ancestry** (suscripción) — imágenes de las listas de pasajeros, para confirmar identidades.

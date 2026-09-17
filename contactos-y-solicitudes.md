@@ -80,6 +80,10 @@ ich bitte um eine beglaubigte Kopie des folgenden Eintrags aus dem Bestand
   Wohnanschrift:    Sievekingsallee 10 (laut Hamburger Adressbuch 1924)
 
 Den Eintrag habe ich über das Generalregister der Sterbefälle 1924 ermittelt.
+
+Außerdem wäre ich dankbar für einen Hinweis, welche Unterlagen des Einwohnermeldewesens
+(Bestand 332-8) für die Jahre 1922 bis 1926 vorhanden sind und wie man dort eine Recherche
+zu dieser Person und Anschrift beantragen kann.
 Die Kopie wird für familiengeschichtliche Zwecke und zur Vorlage bei Behörden benötigt.
 
 Bitte teilen Sie mir die anfallenden Gebühren mit.
@@ -162,6 +166,17 @@ sowie zu seiner Ehefrau Clara Teresa (Therese), geb. Schulze.
 
 Könnten Sie mir mitteilen, welche Kirchenbücher und Jahrgänge Sie hierzu verwahren
 und wie ich eine Recherche bzw. beglaubigte Kopien beantragen kann?
+
+Darüber hinaus interessieren mich Unterlagen zu den Söhnen der Familie, insbesondere zu
+Carlos Oscar Augusto Vermehren Schulze (geb. 1873). Welche der folgenden Bestände sind für
+den Zeitraum 1885 bis 1910 vorhanden, und wie kann man darin eine Recherche beantragen?
+
+  - Einwohnermeldeunterlagen (Einwohnermeldeamt ab 1883/84; Bestand 02.06 Staatliche
+    Polizeiverwaltung Lübeck)
+  - Heimatberechtigung / Heimatscheine und Staatsangehörigkeit, einschließlich der
+    "Liste der ausgestellten Heimatscheine"
+  - Passangelegenheiten
+  - Schülerverzeichnisse Lübecker Schulen
 
 Vielen Dank im Voraus.
 
