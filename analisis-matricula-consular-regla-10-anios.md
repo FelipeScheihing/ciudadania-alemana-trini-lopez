@@ -194,6 +194,8 @@ años, cerraría el punto: el plazo se reiniciaría y ya no podría completarse 
 | Staatsarchiv Hamburg, 332-8 — **Fremdenmeldeprotokolle (hombres), registro alfabético 1868–1889** (PDF libre) | Inscripción policial en Hamburgo | 13 entradas Vermehren, ninguna corresponde (los de Lübeck son Paul, Paul Ad. y Rich., otras personas). Imagen en la misma carpeta |
 | **Consulado de Valdivia — Namenverzeichnis de la Matrikel (PA AA AB 2/916, 1872–1938)** | Índice alfabético completo del tomo AB 2/915 | Bajo la letra V: Vogg, Voss, Vidal, Valta, Vogt, Vervier, Vonnoh, Vosberg, Vogel, Vierig, Voge, Vogelskamp, Vorreiter, Volk, Voelker. **Ningún Vermehren** |
 | **Consulado de Valdivia — Passregister (PA AA AB 2/918, 1880–1930)** | Páginas 8 a 17 del libro, entradas 52 a 195 = **1892 a 1908** (cubre entera la ventana 1894–1904) | **Ningún Vermehren.** Faltan por revisar las entradas 1880–1892 y las posteriores a 1908 |
+| **Consulado de Osorno — Matrikel (PA AA AB 2/596, 1883–1925)** | Sus 550 inscripciones están recogidas en el índice general de Chile | **Ningún Vermehren.** Osorno no tiene Passregister en el PA AA: solo los dos tomos de Matrikel (AB 2/596 y 597), así que la vía queda cerrada |
+| **Índice general de matrículas de Chile (Gesamtnamenverzeichnis, 292 págs., texto buscable)** | Todas las sedes consulares. Reparto: Valdivia 1554, Santiago, Concepción, Temuco, Valparaíso 904, **Osorno 550**, Puerto Montt, Iquique, Punta Arenas, Arica, Talca | Contiene **un solo Vermehren en todo Chile**: `VERMEHREN · FRIEDRICH WILHELM AUGUST · SANTIAGO · Band 1 · N° 687` |
 | Archivo de la Hansestadt Lübeck — buscador en línea, "Vermehren" | 121 registros | Expedientes de otras ramas (senadores, comerciantes). El buscador **no indexa padrones ni fichas de habitantes**, así que esto no descarta nada |
 | Staatsarchiv Bremen — listas de pasajeros | — | Las listas de **1875 a 1908 fueron destruidas** por falta de espacio; solo sobreviven restos de 1907/08 y 1913/14. Esa vía no existe |
 
@@ -228,5 +230,5 @@ inscripción, sin tomo predecesor perdido. Imágenes en el expediente Scheihing,
    alemanes en Chile (pregunta ya incluida en el borrador §3 de `contactos-y-solicitudes.md`).
 4. **Papeles de familia** — pasaportes, visas, libretas, cartas o fotos fechadas en Alemania.
 5. **Ancestry** (suscripción) — imágenes de las listas de pasajeros, para confirmar identidades.
-6. **Consulado de Osorno (PA AA AB 2/596, 1883–1925)** — sin revisar. Y en Valdivia faltan los
-   tramos del Passregister anteriores a 1892 y posteriores a 1908.
+6. En Valdivia faltan los tramos del Passregister anteriores a 1892 y posteriores a 1908
+   (la ventana 1894–1904 ya está cubierta). Osorno queda cerrado.
