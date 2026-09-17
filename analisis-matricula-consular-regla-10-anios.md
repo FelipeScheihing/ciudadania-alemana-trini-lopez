@@ -114,54 +114,47 @@ estructura muy parecida):
 - Para ellos, el plazo de 10 años **empieza a correr al cumplir la mayoría de edad** (Rn. 19–20).
 - Mientras eran menores, perdían la nacionalidad solo si la perdía el padre y vivían con él (Abs. 2).
 
-## 5. Qué significa para el caso de Trini — RIESGO CRÍTICO
+## 5. Búsqueda de Carlos Oscar Augusto y Kurt Roland en los registros consulares (2026-09-17)
 
-La vía § 5 StAG exige que **Amelia (n. 1939) haya sido alemana** al nacer Eileen. Amelia lo era solo si
-Kurt Roland lo era al nacer (dic-1909), y Kurt solo si **Carlos Oscar Augusto** seguía siendo alemán en
-diciembre de 1909.
+| Fuente revisada | Método | Resultado |
+|---|---|---|
+| Índice alfabético de todas las matrículas conservadas de Chile (consulado de Santiago, 7.641 registros) | Búsqueda de texto + búsqueda difusa de variantes del apellido (Vermehren, Vermeren, Wermehren, Fermehren, Vermehr, etc.) + búsqueda por nombres de pila (Carlos/Karl + Oscar/Oskar; Roland) con cualquier apellido | Solo aparece Friedrich Wilhelm August (Santiago 1/687). No se ubicaron registros de Carlos Oscar ni de Kurt Roland. |
+| Santiago, Matrikel 1861–1910 (AB 2/801) | Revisión visual de la sección de la letra V (N° 681–687) y secciones vecinas U y W | Solo Friedrich Wilhelm August (N° 687). |
+| Valparaíso, Namenverzeichnis 1906–1938 (AB 2/926) | Revisión visual de la página de la letra V | No se ubicaron registros Vermehren. |
+| Valparaíso, índice de Passregister 1907–1920 y 1922–1924 (AB 2/933) | Revisión visual de las páginas de la letra V | No se ubicaron registros Vermehren. |
+| Santiago, Matrikel 1911–1927 y 1928–1943 (AB 2/802, 803) | Cubiertos por el índice alfabético del consulado | No se ubicaron registros Vermehren. |
 
-**Tramo del inmigrante (Friedrich Wilhelm August) — riesgo bajo a moderado.** Tuvo al menos tres
-inscripciones consulares (Valparaíso, Concepción, Santiago 1901) y un Schutzschein, y el bautismo de un hijo
-en Lübeck en 1879 sugiere que volvió a Alemania en esa época (lo que reinicia el plazo). Lo que importa de él
-es que siguiera siendo alemán **mientras Carlos Oscar era menor**, es decir hasta ~1894. Es probable, pero
-las fechas de las inscripciones anteriores a 1901 están en tomos perdidos.
+**Lo que NO se pudo revisar** (y por qué la búsqueda no es concluyente):
 
-**Tramo de Carlos Oscar Augusto (n. 1873) — riesgo ALTO, es el punto que puede romper el caso.**
+- **Valparaíso antes de 1906:** los libros no se conservan en el Politisches Archiv.
+- **Concepción antes de ~1892:** el tomo anterior figura como "nicht mehr vorhanden".
+- **Pasaportes, Schutzscheine o Heimatscheine** emitidos en esos años: si existieron, estarían en esos
+  libros perdidos o en manos de la familia.
+- **Santiago, Passregister 1914–1943** (AB 2/813–815): no revisados (posteriores a 1909).
+- Registros en consulados fuera de Chile o en autoridades en Alemania (si hubo viajes o estadías allá).
 
-- Mayoría de edad a los 21 años (ley del Reich de 1875, igual que el BGB de 1900) → **~1894**.
-- Desde ahí corría su propio plazo de 10 años → **pérdida hacia ~1904** si no hizo nada que lo interrumpiera.
-- **No aparece en ninguna matrícula conservada de Chile**, tampoco en Santiago, donde vivía (se casó en
-  Recoleta en 1901 y Kurt nació en Santiago en 1909), y cuyo tomo 1861–1910 sí se conserva completo.
-- No figura como hijo en la inscripción de su padre de 1901 (y a esa fecha ya era adulto, así que tampoco le
-  habría servido).
-- Si perdió la nacionalidad hacia 1904, **Kurt (n. 1909) nació no alemán**, y con eso se cae toda la cadena
-  hacia Amelia, Eileen, Trinidad y Ramiro.
+## 6. Qué significa para el caso — punto a evaluar con el abogado
 
-**Lo que podría salvar el tramo** (hay que buscarlo activamente):
+La vía § 5 StAG requiere que Amelia (n. 1939) tuviera la nacionalidad alemana al nacer Eileen, lo que
+depende de la continuidad de la nacionalidad en cada generación anterior.
 
-1. Una inscripción de Carlos Oscar en **Valparaíso antes de 1906** (tomos perdidos, pero podría haber otra
-   prueba indirecta) o en otro consulado.
-2. Un **pasaporte alemán, Heimatschein o libreta militar** a su nombre entre 1894 y 1909 — el plazo corría
-   desde el vencimiento de esos papeles.
-3. Pruebas de un **viaje o residencia en Alemania** entre 1894 y 1909 (el padre murió en Hamburgo; ¿viajaba
-   la familia?).
-4. Que su fecha real de nacimiento sea posterior a 1873 (la de 1873 sale de la edad declarada al casarse),
-   lo que correría todo el calendario — pero aun naciendo en 1879 la pérdida caería en ~1910, apenas después
-   del nacimiento de Kurt. Margen mínimo.
+Según el § 21 de la ley de 1870 y el fallo BVerwG 1 C 28.20, para las personas nacidas en el extranjero
+antes de 1914 es relevante si existe documentación consular (matrícula, pasaporte, Schutzschein o
+Heimatschein) o de estadías en Alemania en los años posteriores a su mayoría de edad.
 
-**Nota importante:** los abogados dijeron que el caso era "factible". No sabemos si revisaron este punto. Hay
-que preguntárselo antes de gastar más en documentos.
+- **Friedrich Wilhelm August:** hay al menos tres inscripciones consulares (Valparaíso, Concepción,
+  Santiago 1901) y un Schutzschein.
+- **Carlos Oscar Augusto (n. 1873):** en los registros conservados revisados **no se ubicó documentación
+  consular a su nombre**. Como faltan libros de Valparaíso y Concepción, eso no permite concluir nada por sí
+  solo. **Es el punto que conviene evaluar con un abogado especialista antes de avanzar**, y el tipo de
+  documento que más ayudaría a reunir.
 
-## 6. ¿Hay que mandarle esto al consulado?
+**Documentos que sería valioso ubicar en la familia** (período aproximado 1890–1914): pasaportes o
+documentos alemanes de Carlos Oscar, certificados emitidos por consulados alemanes, libretas militares,
+cartas o pasajes que muestren viajes o estadías en Alemania.
 
-Sí, es gratis y es lo que el propio consulado pide. Dos direcciones, según su web y su diagrama:
+## 7. Cómo comunicarse con autoridades y archivos
 
-- **Si el antepasado aparece en la matrícula** (nuestro caso): enviar captura de la inscripción a
-  **staatsangehoerigkeit@santi.diplo.de**, indicando consulado, tomo y número → *Santiago, Band 1, N° 687*.
-- **Si hay documentos alemanes de un antepasado que no está en la matrícula** (pasaporte, permiso de
-  residencia, libreta militar, etc.): escanearlos y enviarlos a
-  **staatsangehoerigkeit@santi.auswaertiges-amt.de**.
-
-Recomendación: en el mismo correo, preguntar explícitamente por **Carlos Oscar Augusto (n. 1873 en Chile,
-sin matrícula propia)**, que es donde está el riesgo real. Mejor saberlo ahora que después de juntar todas
-las actas.
+Ver `contactos-y-solicitudes.md`. Criterio: enviar lo que el consulado pide (la inscripción de la matrícula),
+pedir solo búsquedas y copias, hacer preguntas abiertas y **no pedir a ninguna autoridad que evalúe por
+escrito si alguien perdió la nacionalidad** — esa evaluación la hace el abogado.

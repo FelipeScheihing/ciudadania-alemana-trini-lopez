@@ -13,7 +13,9 @@
 
 | Doc | Persona | Carpeta | Nota |
 |---|---|---|---|
-| Acta bautismo/nacimiento (alemán, iglesia Lübeck N°605) | ¿Friedrich Wilhelm August Vermehren? | `01-Friedrich-Wilhelm-August-Vermehren/` | Identidad SIN confirmar — ver problema aritmético en análisis |
+| Acta bautismo/nacimiento (alemán, iglesia Lübeck N°605) | Friedrich Wilhelm August Vermehren | `01-Friedrich-Wilhelm-August-Vermehren/` | 15-09-1845 — coincide con la matrícula consular |
+| Matrícula consular Santiago Band 1 N° 687 | Friedrich Wilhelm August Vermehren | `01-.../matricula-consular/` | Obtenida 17-09-2026 (imagen digital; falta copia certificada) |
+| Índice defunciones Hamburgo 1924 (ubicación del acta) | Friedrich Wilhelm August Vermehren | `01-Friedrich-Wilhelm-August-Vermehren/` | Falta pedir copia del acta |
 | Acta matrimonio Vermehren-Keller 1901 (2 versiones, original + enmendado) | Carlos Oscar Augusto Vermehren Schulze + Julia Emilia Keller Fuchs | `02-Carlos-Oscar-Augusto-Vermehren-Schulze/` | Discrepancia nombre madre del novio: "Clara Schulze" vs "Edwina Schulze" entre las dos versiones — revisar cuál es la corregida válida |
 | Acta defunción Carlos Oscar Augusto Vermehren | Carlos Oscar Augusto Vermehren Schulze | `02-Carlos-Oscar-Augusto-Vermehren-Schulze/` | 1961, Recoleta |
 | Acta nacimiento Kurt Roland Vermehren Keller | Kurt Roland Vermehren Keller | `03-Kurt-Roland-Vermehren-Keller/` | 1909, confirma filiación matrimonial |
@@ -23,16 +25,15 @@
 ## Nos falta (según lo que exige el trámite §5 StAG)
 
 ### Tramo alemán (crítico — resuelve el problema aritmético)
-- [x] ~~Identidad del inmigrante~~ **ACTUALIZADO 2026-09-15**: vía FamilySearch confirmamos que el inmigrante correcto es **Federico Guillermo Augusto Vermehren Lundt** (n. Lübeck, hermano de Friedrich Wilhelm August Vermehren — NO la misma persona). El acta de bautismo que teníamos archivada es de su hermano. Ver `analisis-legislacion-aplicable.md` §3.
-- [ ] **Acta de bautismo/nacimiento correcta** de Federico Guillermo Augusto Vermehren Lundt, Lübeck — la que tenemos es del hermano equivocado. FamilySearch le atribuye "11-04-1867" pero esa fecha no tiene fuente alemana primaria y sigue sin cuadrar con el nacimiento de Carlos Oscar (1873) — hay que buscar el registro real en el archivo parroquial de Lübeck.
+- [x] **Identidad y fecha de nacimiento del inmigrante — RESUELTO 2026-09-17**: la matrícula consular confirma n. 15-09-1845 en Lübeck, igual que el bautismo N° 605. En Chile figura también como "Federico Guillermo Augusto". (Se descarta la hipótesis previa de dos hermanos distintos.)
+- [ ] Copia certificada de la matrícula (Politisches Archiv, AB 2/801, N° 687) — borrador en `contactos-y-solicitudes.md` §3.
 - [x] **Matrícula consular — OBTENIDA 2026-09-17** (PA AA AB 2/801, Santiago Band 1, N° 687, imagen 52). Confirma n. 15-09-1845 Lübeck. Imágenes en `01-.../matricula-consular/`. Análisis en `analisis-matricula-consular-regla-10-anios.md`.
-- [ ] **Enviar captura de la matrícula al consulado** (staatsangehoerigkeit@santi.diplo.de, "Santiago, Band 1, N° 687") y preguntar por Carlos Oscar.
+- [ ] **Enviar la inscripción de la matrícula al consulado** (staatsangehoerigkeit@santi.diplo.de, "Santiago, Band 1, N° 687") con pregunta abierta sobre documentación por generación. Borrador en `contactos-y-solicitudes.md` §1.
 
-### ⚠️ Riesgo crítico: regla de 10 años para Carlos Oscar Augusto (n. 1873)
-- [ ] Buscar **cualquier documento alemán de Carlos Oscar entre 1894 y 1909**: pasaporte, Heimatschein, libreta militar, inscripción consular en Valparaíso, pruebas de viaje o residencia en Alemania. Sin eso, probablemente perdió la nacionalidad hacia 1904 y la cadena se corta antes de Kurt (1909). Si aparece un documento así, se envía escaneado a staatsangehoerigkeit@santi.auswaertiges-amt.de.
-- [ ] Preguntar a los abogados de la pre-evaluación si consideraron este punto.
-- [~] **Acta de defunción (Hamburgo, 1924) — LOCALIZADA 2026-09-15**, falta pedir la copia. Datos exactos: fallecido **9 de febrero de 1924**, Standesamt 22 Hamburg, Registernummer 492, Bestellsignatur **332-5 Nr. 885**. Índice encontrado en el Generalregister Sterbefälle 1924 del Staatsarchiv Hamburg (imágenes en `01-Friedrich-Wilhelm-August-Vermehren/`). Ver borrador de correo en `contactos-y-solicitudes.md` §0.
-- [ ] Confirmar que no perdió la nacionalidad alemana antes del nacimiento de Carlos Oscar (1873) — ej. si se naturalizó chileno antes de esa fecha, la cadena se rompe.
+### Punto a evaluar con abogado: documentación consular de Carlos Oscar Augusto (n. 1873)
+- [ ] En los registros consulares conservados revisados no se ubicó documentación a su nombre (faltan libros de Valparaíso pre-1906 y Concepción pre-1892). Evaluarlo con abogado especialista antes de avanzar.
+- [ ] Buscar en la familia documentos de Carlos Oscar ~1890–1914: pasaportes o documentos alemanes, certificados consulares, libretas militares, cartas o pasajes de viajes a Alemania.
+- [ ] Preguntar a los abogados de la pre-evaluación qué documentación consideraron para esta generación.
 
 ### Generación Carlos Oscar Augusto Vermehren Schulze
 - [ ] **Acta de nacimiento/bautismo** de Carlos Oscar Augusto (1873) — **vía parroquia, NO Registro Civil** (nació antes de 1885). Buscar en parroquia católica de la zona o comunidad alemana luterana de Valparaíso.

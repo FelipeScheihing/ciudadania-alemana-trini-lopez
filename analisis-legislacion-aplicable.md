@@ -102,12 +102,11 @@ Detalle completo en `analisis-matricula-consular-regla-10-anios.md`. Resumen:
 - **Matrícula obtenida** (PA AA AB 2/801, Santiago Band 1, N° 687): confirma nacimiento **15-09-1845 en
   Lübeck** → la fecha de 1867 queda descartada. Inscrito en Santiago el 5-ene-1901 con Schutzschein N° 187
   de Valparaíso; antes inscrito en Valparaíso y en Concepción N° 53 (ambos tomos perdidos).
-- **Riesgo que puede romper el caso:** por el § 21 de la ley de 1870 (y BVerwG 1 C 28.20), un hijo nacido en
-  el extranjero perdía la nacionalidad 10 años después de su mayoría de edad si no se inscribía en la
-  matrícula. **Carlos Oscar Augusto (n. 1873, mayor en ~1894) no aparece en ninguna matrícula de Chile** →
-  posible pérdida hacia ~1904, **antes del nacimiento de Kurt (dic-1909)**. Si se confirma, Amelia no era
-  alemana y la vía § 5 StAG se cae. Hay que buscar pasaportes, Heimatschein o viajes a Alemania de Carlos
-  Oscar entre 1894 y 1909, y consultarlo con el consulado y los abogados antes de seguir juntando actas.
+- **Punto a evaluar con abogado:** por el § 21 de la ley de 1870 (y BVerwG 1 C 28.20), para personas
+  nacidas en el extranjero antes de 1914 es relevante la documentación consular posterior a su mayoría de
+  edad. En los registros conservados revisados **no se ubicó documentación consular de Carlos Oscar Augusto
+  (n. 1873)**; faltan libros de Valparaíso (pre-1906) y Concepción (pre-1892), por lo que no es concluyente.
+  Ver `analisis-matricula-consular-regla-10-anios.md` §5–6.
 
 ## 4. Legislación de referencia
 - §5 StAG (Erklärungserwerb — adquisición por declaración), vigente desde 20-08-2021, plazo límite **19-08-2031**.
