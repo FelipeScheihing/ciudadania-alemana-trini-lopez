@@ -158,3 +158,46 @@ cartas o pasajes que muestren viajes o estadías en Alemania.
 Ver `contactos-y-solicitudes.md`. Criterio: enviar lo que el consulado pide (la inscripción de la matrícula),
 pedir solo búsquedas y copias, hacer preguntas abiertas y **no pedir a ninguna autoridad que evalúe por
 escrito si alguien perdió la nacionalidad** — esa evaluación la hace el abogado.
+
+---
+
+## 8. ¿Los viajes a Alemania interrumpen el plazo de 10 años? (2026-09-17)
+
+**Regla.** El § 21 BuStAG 1870 exige diez años **ininterrumpidos** de residencia en el extranjero
+("zehn Jahre lang ununterbrochen im Auslande"). En consecuencia:
+
+- **La estadía en territorio alemán interrumpe el plazo**, y al salir de nuevo empieza a correr un
+  plazo nuevo de diez años.
+- También lo interrumpen o impiden la **inscripción en la matrícula consular** y la emisión o
+  renovación de un pasaporte / Heimatschein / Schutzschein (el plazo corre desde el vencimiento del papel).
+- **La regla se derogó con la RuStAG 1913, vigente desde el 01-01-1914.** Solo importan los plazos
+  de diez años que se hayan **completado antes de esa fecha**.
+
+**Cómo juega con lo que tenemos** (a confirmar con abogado; no es asesoría legal):
+
+| Persona | Indicio | Efecto que habría que evaluar |
+|---|---|---|
+| Friedrich Wilhelm August (n. 1845) | Embarca en Hamburgo en 1886 y en 1909; matrícula de Santiago N° 687 con Schutzschein N° 187 | Cada estadía en Alemania reiniciaría el plazo. Desde 1909 a 1914 hay 5 años: no alcanzaría a completarse |
+| Carlos Oscar Augusto (n. 1873) | Posible embarque en Hamburgo en 1891 a los 17 (por confirmar) | Siendo menor, en 1891 su situación seguía a la del padre. Según BVerwG 1 C 28.20 su propio plazo correría desde la mayoría de edad (21 años, ~1894) |
+
+**La ventana decisiva para Carlos Oscar es 1894–1904.** Cualquier prueba de que estuvo en Alemania,
+o de que tuvo papeles alemanes vigentes (pasaporte, Heimatschein, inscripción consular) en esos
+años, cerraría el punto: el plazo se reiniciaría y ya no podría completarse antes del 01-01-1914.
+
+**Búsqueda hecha (2026-09-17).** ACTApro, listas de pasajeros de Hamburgo, término "Vermehren",
+1890–1915: 18 fichas. Ninguna corresponde a un Vermehren de la edad de Carlos Oscar con rumbo a
+Chile en la ventana 1894–1904 (las de esos años son otras familias: Sardinia 1899 a México,
+Kurfürst 1902 "Hans, 21" a Sudáfrica, König Wilhelm II 1908 "Wilhelm, 23", Cap Vilano 1910
+"Elisabeth, 18").
+
+**Limitaciones importantes de esa búsqueda:**
+- Las listas de Hamburgo son de **salidas** de emigrantes por ese puerto: no registran entradas a
+  Alemania ni viajes por Bremen, Amberes, Liverpool u otros puertos.
+- Los pasajeros que no viajaban como emigrantes podían no quedar en estas listas.
+- Son índices transcritos, con erratas posibles en nombres y edades.
+
+**Dónde seguir buscando presencia en Alemania (1894–1904):**
+- Registros de habitantes y de forasteros de Hamburgo (Meldewesen) y de Lübeck.
+- Archivo de la Hansestadt Lübeck: padrones, Bürgerrolle, registros escolares.
+- Papeles de familia: pasaportes, visas, cartas o fotos fechadas en Alemania.
+- Politisches Archiv: registros de pasaportes y Schutzscheine de los consulados en Chile.
