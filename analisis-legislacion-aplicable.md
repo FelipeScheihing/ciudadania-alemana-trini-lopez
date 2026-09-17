@@ -95,6 +95,20 @@ fecha de nacimiento real del inmigrante y cerrar la discrepancia 1845 / 1867 des
 Imágenes del índice guardadas en `01-Friedrich-Wilhelm-August-Vermehren/`. El PDF fuente completo
 (200 MB) queda solo en local, fuera del repositorio por tamaño.
 
+## 3c. Hallazgo 2026-09-17: matrícula consular obtenida + RIESGO CRÍTICO por la regla de 10 años
+
+Detalle completo en `analisis-matricula-consular-regla-10-anios.md`. Resumen:
+
+- **Matrícula obtenida** (PA AA AB 2/801, Santiago Band 1, N° 687): confirma nacimiento **15-09-1845 en
+  Lübeck** → la fecha de 1867 queda descartada. Inscrito en Santiago el 5-ene-1901 con Heimatschein N° 187
+  de Valparaíso; antes inscrito en Valparaíso y en Concepción N° 53 (ambos tomos perdidos).
+- **Riesgo que puede romper el caso:** por el § 21 de la ley de 1870 (y BVerwG 1 C 28.20), un hijo nacido en
+  el extranjero perdía la nacionalidad 10 años después de su mayoría de edad si no se inscribía en la
+  matrícula. **Carlos Oscar Augusto (n. 1873, mayor en ~1894) no aparece en ninguna matrícula de Chile** →
+  posible pérdida hacia ~1904, **antes del nacimiento de Kurt (dic-1909)**. Si se confirma, Amelia no era
+  alemana y la vía § 5 StAG se cae. Hay que buscar pasaportes, Heimatschein o viajes a Alemania de Carlos
+  Oscar entre 1894 y 1909, y consultarlo con el consulado y los abogados antes de seguir juntando actas.
+
 ## 4. Legislación de referencia
 - §5 StAG (Erklärungserwerb — adquisición por declaración), vigente desde 20-08-2021, plazo límite **19-08-2031**.
 - Formularios: Vordruck_EER, Anlage_EER (solo si no hay procedimiento BVA en curso), Anlage_AV (para generaciones adicionales — Trinidad/Ramiro la necesitarán para acreditar a Kurt Roland y a Friedrich Wilhelm August como ascendientes de Eileen).

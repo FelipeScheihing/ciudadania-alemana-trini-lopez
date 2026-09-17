@@ -1,5 +1,49 @@
 # Contactos y solicitudes — documentos faltantes del tronco Vermehren
 
+## 00. PRIORIDAD (2026-09-17): consulado alemán en Santiago — matrícula + riesgo Carlos Oscar
+
+La matrícula del inmigrante ya está descargada (Santiago, Band 1, N° 687). El propio consulado pide que se
+les envíe. Ver análisis completo en `analisis-matricula-consular-regla-10-anios.md`.
+
+**A quién:** staatsangehoerigkeit@santi.diplo.de (antepasado que sí aparece en la matrícula).
+Si más adelante aparecen documentos alemanes de Carlos Oscar (pasaporte, Heimatschein, libreta militar):
+staatsangehoerigkeit@santi.auswaertiges-amt.de.
+
+**Adjuntar:** `01-Friedrich-Wilhelm-August-Vermehren/matricula-consular/PAAA_AB2-801_Santiago-Matrikel-Band1_p052_completa.jpg`
+y los tres recortes de la entrada N° 687.
+
+**Borrador (español):**
+```
+Asunto: Matrícula consular Santiago, Band 1, N° 687 — Vermehren — consulta §5 StAG
+
+Estimados:
+
+Siguiendo las indicaciones de su sitio web, les envío la inscripción de mi antepasado en la
+matrícula consular:
+
+  Consulado: Santiago de Chile — Band 1 — N° 687
+  Nombre: Friedrich Wilhelm August Vermehren, nacido el 15-09-1845 en Lübeck
+  Inscrito el 5 de enero de 1901 (con Heimatschein N° 187 del consulado en Valparaíso;
+  registrado antes en las matrículas de Valparaíso y de Concepción N° 53)
+  Archivo: Politisches Archiv des Auswärtigen Amts, AB 2/801, imagen 52 (adjunta)
+
+Mi cadena es: Friedrich Wilhelm August Vermehren → Carlos Oscar Augusto Vermehren
+Schulze (nacido en Chile en 1873) → Kurt Roland Vermehren Keller (1909) → Amelia Viola
+Vermehren Stevenson (1939) → Eileen Marianne Beckett Vermehren (1959) → yo (1996).
+Evaluamos la vía del § 5 StAG a través de Eileen.
+
+Mi consulta concreta: Carlos Oscar Augusto no aparece inscrito en ninguna matrícula
+conservada. ¿Consideran que perdió la nacionalidad alemana por el § 21 de la ley de 1870
+antes del nacimiento de su hijo Kurt Roland (diciembre de 1909)? ¿Qué tipo de documento
+permitiría acreditar lo contrario?
+
+Muchas gracias.
+
+Saludos cordiales,
+Trinidad Sofía López Beckett
+[email / teléfono]
+```
+
 ## 0. ✅ LOCALIZADO (2026-09-15): acta de defunción en Hamburgo
 
 Encontré el registro en el **Generalregister Sterbefälle 1924** del Staatsarchiv Hamburg
