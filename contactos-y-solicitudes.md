@@ -59,6 +59,7 @@ Registro ubicado en el Generalregister Sterbefälle 1924 (sign. 49048, Film A 25
 | Standesamt | 22 Hamburg |
 | Registernummer | 492 |
 | Bestellsignatur | 332-5, Nr. 885 (Standesamt 22, Nrn. 0001–0496, 01.01.–10.07.1924) |
+| Domicilio (Hamburger Adressbuch 1923–1924) | Sievekingsallee 10, Privatmann |
 
 **A:** servicio en línea del archivo:
 https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-kultur-und-medien/einrichtungen/staatsarchiv/online-dienst-fuer-anfragen
@@ -76,6 +77,7 @@ ich bitte um eine beglaubigte Kopie des folgenden Eintrags aus dem Bestand
   Standesamt:       22 Hamburg
   Registernummer:   492
   Bestellsignatur:  332-5, Nr. 885
+  Wohnanschrift:    Sievekingsallee 10 (laut Hamburger Adressbuch 1924)
 
 Den Eintrag habe ich über das Generalregister der Sterbefälle 1924 ermittelt.
 Die Kopie wird für familiengeschichtliche Zwecke und zur Vorlage bei Behörden benötigt.

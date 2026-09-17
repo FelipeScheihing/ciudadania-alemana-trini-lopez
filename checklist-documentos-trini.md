@@ -15,7 +15,7 @@
 |---|---|---|---|
 | Acta bautismo/nacimiento (alemán, iglesia Lübeck N°605) | Friedrich Wilhelm August Vermehren | `01-Friedrich-Wilhelm-August-Vermehren/` | 15-09-1845 — coincide con la matrícula consular |
 | Matrícula consular Santiago Band 1 N° 687 | Friedrich Wilhelm August Vermehren | `01-.../matricula-consular/` | Obtenida 17-09-2026 (imagen digital; falta copia certificada) |
-| Índice defunciones Hamburgo 1924 (ubicación del acta) | Friedrich Wilhelm August Vermehren | `01-Friedrich-Wilhelm-August-Vermehren/` | Falta pedir copia del acta |
+| Índice defunciones Hamburgo 1924 (ubicación del acta) | Friedrich Wilhelm August Vermehren | `01-Friedrich-Wilhelm-August-Vermehren/` | Falta pedir copia del acta. Respaldos: Adressbuch 1923–26 (Sievekingsallee 10; viuda desde 1925) y aviso fúnebre de Clara 1926 — ver `busqueda-acta-defuncion-hamburgo.md` |
 | Acta matrimonio Vermehren-Keller 1901 (2 versiones, original + enmendado) | Carlos Oscar Augusto Vermehren Schulze + Julia Emilia Keller Fuchs | `02-Carlos-Oscar-Augusto-Vermehren-Schulze/` | Discrepancia nombre madre del novio: "Clara Schulze" vs "Edwina Schulze" entre las dos versiones — revisar cuál es la corregida válida |
 | Acta defunción Carlos Oscar Augusto Vermehren | Carlos Oscar Augusto Vermehren Schulze | `02-Carlos-Oscar-Augusto-Vermehren-Schulze/` | 1961, Recoleta |
 | Acta nacimiento Kurt Roland Vermehren Keller | Kurt Roland Vermehren Keller | `03-Kurt-Roland-Vermehren-Keller/` | 1909, confirma filiación matrimonial |
