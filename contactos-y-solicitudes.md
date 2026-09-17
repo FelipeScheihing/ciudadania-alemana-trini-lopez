@@ -23,7 +23,7 @@ matrícula consular:
 
   Consulado: Santiago de Chile — Band 1 — N° 687
   Nombre: Friedrich Wilhelm August Vermehren, nacido el 15-09-1845 en Lübeck
-  Inscrito el 5 de enero de 1901 (con Heimatschein N° 187 del consulado en Valparaíso;
+  Inscrito el 5 de enero de 1901 (con Schutzschein N° 187 del consulado general en Valparaíso;
   registrado antes en las matrículas de Valparaíso y de Concepción N° 53)
   Archivo: Politisches Archiv des Auswärtigen Amts, AB 2/801, imagen 52 (adjunta)
 

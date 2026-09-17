@@ -68,6 +68,23 @@ pip install kraken
 kraken -i pagina.jpg salida.txt segment -bl ocr -m german_handwriting.mlmodel
 ```
 
+## Prueba real sobre nuestros documentos (2026-09-17)
+
+Se corrieron los dos modelos gratuitos, localmente y en CPU, sobre 20 renglones recortados de la matrícula
+N° 687 y del índice de defunciones de Hamburgo. Scripts en `ocr/`.
+
+| Modelo | Rendimiento en estos documentos |
+|---|---|
+| **TrOCR `dh-unibe/trocr-kurrent`** | **El mejor.** Leyó bien nombres, fechas y frases completas ("den 5t. Jenner 1901. auf Grund", "eingetragen", "in Conzeptien unter Nr. 53", "Vermehren"). Detectó que la palabra era *Schutzscheines* y corrigió una lectura humana. Falla con números sueltos (leyó 887 por 187) y con topónimos (Lübeck → "Jubel"). |
+| **Kraken + modelo Zenodo 7933463** | Mucho más débil en este Kurrent (modelo general, no específico del siglo XIX). Útil solo como desempate: acertó el número "187" donde TrOCR falló. |
+
+Lecciones:
+- **Renglón completo > palabra suelta.** Ambos modelos empeoran mucho con recortes de una sola palabra.
+- **Números y nombres propios: siempre verificar a ojo** con ampliación. Ningún modelo leyó bien "492" ni "9/2".
+- Usar los dos modelos y comparar: cuando coinciden, la lectura es sólida; cuando difieren, ampliar la imagen.
+- Instalación en Windows: crear el entorno virtual en una ruta corta (ej. `C:\ocr`), porque rutas largas rompen
+  la instalación de `pip` (error WinError 206).
+
 ## Consejos prácticos para estos documentos
 
 - **Recortar antes de reconocer.** Las matrículas son tablas de doble página; el reconocimiento funciona

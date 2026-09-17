@@ -100,7 +100,7 @@ Imágenes del índice guardadas en `01-Friedrich-Wilhelm-August-Vermehren/`. El 
 Detalle completo en `analisis-matricula-consular-regla-10-anios.md`. Resumen:
 
 - **Matrícula obtenida** (PA AA AB 2/801, Santiago Band 1, N° 687): confirma nacimiento **15-09-1845 en
-  Lübeck** → la fecha de 1867 queda descartada. Inscrito en Santiago el 5-ene-1901 con Heimatschein N° 187
+  Lübeck** → la fecha de 1867 queda descartada. Inscrito en Santiago el 5-ene-1901 con Schutzschein N° 187
   de Valparaíso; antes inscrito en Valparaíso y en Concepción N° 53 (ambos tomos perdidos).
 - **Riesgo que puede romper el caso:** por el § 21 de la ley de 1870 (y BVerwG 1 C 28.20), un hijo nacido en
   el extranjero perdía la nacionalidad 10 años después de su mayoría de edad si no se inscribía en la

@@ -33,10 +33,10 @@ Transcripción (manuscrito Kurrent; lo marcado con (?) es lectura dudosa):
 | Geburtsort | Lübeck |
 | Kreis / Regierungsbezirk / Religion | — / — / — |
 | Datum und Art der Ankunft in Chili | **en blanco** |
-| Bemerkung über die Legitimationspapiere | "In Concepción eingetragen, … (?) 14/2.1901" |
+| Bemerkung über die Legitimationspapiere | "In Concepción eingetragen, laut Bericht(?) vom Konsulat(?) 14/2.1901" |
 | Verheiratet (fecha / con / de) | **en blanco** |
 | Kinder | **en blanco** |
-| Datum der Eintragung u. Bemerkungen | "Eingetr.: den 5. Januar 1901, auf Grund des **Heimatscheins N° 187** des Kais.(?) Konsulats in **Valparaíso**, und dort in die Matrikel eingetr.; ferner wurde er in die Matrikel eingetr. in **Concepción unter N° 53**." |
+| Datum der Eintragung u. Bemerkungen | "Eingetr.: den 5. Januar 1901, auf Grund des **Schutzscheins N° 187** des Kais. Generalkonsulats(?) in **Valparaíso**, und dort in die Matrikel eingetr.; ferner wurde er in die Matrikel eingetr. in **Concepción unter N° 53**." |
 | Tinta roja, cruzada | "verstorben — Eintragung: Dezember 1925" + firma |
 
 **Lecturas importantes:**
@@ -45,18 +45,47 @@ Transcripción (manuscrito Kurrent; lo marcado con (?) es lectura dudosa):
   teníamos y con el perfil alemán de FamilySearch. La fecha "1867" del perfil chileno queda descartada.
 - **"1901" no es la llegada a Chile.** Es la fecha en que se inscribió en Santiago (5-ene-1901). La columna
   de llegada está vacía.
-- **Hubo dos inscripciones anteriores:** una en Valparaíso (con un *Heimatschein*, certificado de
-  nacionalidad emitido por el consulado, N° 187) y otra en Concepción bajo el N° 53. Que un consulado del
-  Imperio le haya emitido un Heimatschein es evidencia de que en ese momento lo reconocía como alemán.
+- **Hubo dos inscripciones anteriores:** una en Valparaíso (con un *Schutzschein*, certificado de
+  protección consular emitido a súbditos del Imperio, N° 187) y otra en Concepción bajo el N° 53. Que el consulado general del
+  Imperio le haya emitido un Schutzschein es evidencia de que en ese momento lo trataba como súbdito alemán
+  bajo su protección (prueba algo más débil que un Heimatschein, que certifica la nacionalidad).
 - **La tinta roja** ("verstorben, Dezember 1925") aparece igual en las entradas 683, 684 y 685 de la misma
   página: es una depuración masiva del libro en 1925, no una fecha de muerte. Es consistente con la muerte en
   Hamburgo el 9-feb-1924.
+
+## 2b. Verificación con OCR automático (2026-09-17)
+
+La transcripción anterior se contrastó con dos modelos gratuitos de reconocimiento de manuscrito, corridos
+localmente sobre recortes renglón por renglón: **TrOCR `dh-unibe/trocr-kurrent`** (Kurrent siglo XIX) y
+**Kraken 7.1.1 + modelo Zenodo 7933463** (alemán manuscrito general). Los dudosos se revisaron además con
+ampliación a nivel de palabra.
+
+| Campo | Lectura humana previa | TrOCR Kurrent | Kraken | Resultado |
+|---|---|---|---|---|
+| Nombre | Friedrich Wilhelm August Vermehren | "Friedricha Wilhelm / August / Vermehren" | ilegible | ✅ confirmado |
+| Stand | Kaufmann | "… / mann" | "Fm / mann" | ✅ confirmado (Kauf- visible en ampliación) |
+| Nacimiento | 15. Sept. 1845, Lübeck | "15. Sept. 1845. Jubel" | ilegible | ✅ fecha confirmada; "Lübeck" mal leído por el modelo, claro en la imagen |
+| Obs. línea 1 | Eingetr.: den 5. Januar 1901, auf Grund | "…den 5t. Jenner 1901. auf Grund" | parcial | ✅ confirmado ("Jenner" = forma antigua de Januar) |
+| Obs. línea 2 | des **Heimatscheins** N 187 des Kais. Konsulats | "des **Schutzscheines** Nr. 887 des Kais: …" | "Des Sratzecheieres **A 187** das Siſ: …" | ⚠️ **CORREGIDO a Schutzscheins** (ambos modelos + ampliación); **N° 187** confirmado por Kraken y ampliación (TrOCR leyó 887); última palabra probable "Generalkonsulats" (sin confirmar) |
+| Obs. línea 3 | in Valparaíso, und dort in die Matrikel | "in Valpereise, verdort in die materibus" | parcial | ✅ confirmado |
+| Obs. línea 5 | in Concepción unter N° 53 | "in Conzeptien unter Nr. 53." | ilegible | ✅ confirmado |
+| Legitimation l.1–2 | In Concepción eingetragen | "In machen / eingetragen" | "… / ingetrert" | ✅ "eingetragen" confirmado; "Concepcion" claro en ampliación |
+| Legitimation l.3–4 | (ilegible) | "Soñtbaricht / venkursälag" | "vin klrrück / enichla" | ⚠️ lectura probable "laut Bericht vom Konsulat" — no confirmada |
+| Legitimation l.5 | 14/2.1901 | "14/2.1901" | ilegible | ✅ confirmado |
+
+Índice de Hamburgo 1924 (misma prueba): apellido **Vermehren** confirmado exacto por TrOCR; "Wilh. Aug."
+confirmado; Standesamt **22** confirmado. Los números **492** y **9/2** no los leyó bien ningún modelo (fallan
+con cifras sueltas), pero la lectura humana es nítida y cuadra con el Findbuch (N° 492 cae en el tomo
+0001–0496, fechas 01.01–10.07.1924).
+
+**Conclusión:** la transcripción se sostiene, con una corrección de fondo: el documento de Valparaíso era un
+**Schutzschein** (certificado de protección consular), no un Heimatschein.
 
 ## 3. Se buscaron las inscripciones anteriores — están en tomos perdidos
 
 | Registro citado | Qué se encontró en el PA AA |
 |---|---|
-| Valparaíso (Heimatschein N° 187) | Las matrículas de Valparaíso conservadas empiezan en **1906** (AB 2/923 en adelante). Todo lo anterior no existe en el archivo. |
+| Valparaíso (Schutzschein N° 187) | Las matrículas de Valparaíso conservadas empiezan en **1906** (AB 2/923 en adelante). Todo lo anterior no existe en el archivo. |
 | Concepción N° 53 | Hay dos tomos: **AB 2/171** (1892–1909, "Band I") y **AB 2/172** (1877–1938, "Band II"). La portada del Band I lleva la nota **"Vorgängerband nicht mehr vorhanden"** (el tomo anterior ya no existe) y su numeración empieza en N° 139. En el Band II, la N° 53 es **Friedrich Max Frick (1902)**, no Vermehren. La N° 53 que cita Santiago estaba en el tomo perdido. |
 
 **Consecuencia:** las fechas de las inscripciones de Valparaíso y Concepción no se pueden recuperar del
@@ -92,7 +121,7 @@ Kurt Roland lo era al nacer (dic-1909), y Kurt solo si **Carlos Oscar Augusto** 
 diciembre de 1909.
 
 **Tramo del inmigrante (Friedrich Wilhelm August) — riesgo bajo a moderado.** Tuvo al menos tres
-inscripciones consulares (Valparaíso, Concepción, Santiago 1901) y un Heimatschein, y el bautismo de un hijo
+inscripciones consulares (Valparaíso, Concepción, Santiago 1901) y un Schutzschein, y el bautismo de un hijo
 en Lübeck en 1879 sugiere que volvió a Alemania en esa época (lo que reinicia el plazo). Lo que importa de él
 es que siguiera siendo alemán **mientras Carlos Oscar era menor**, es decir hasta ~1894. Es probable, pero
 las fechas de las inscripciones anteriores a 1901 están en tomos perdidos.
